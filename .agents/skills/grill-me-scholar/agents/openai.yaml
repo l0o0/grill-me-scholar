@@ -1,0 +1,4 @@
+interface:
+  display_name: "Grill Me Scholar"
+  short_description: "Narrow and validate an academic research topic"
+  default_prompt: "Use $grill-me-scholar to help me narrow and validate my research topic."
