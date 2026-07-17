@@ -6,3 +6,6 @@ skills-lock.json
 
 # Internal design and execution notes
 docs/superpowers/
+
+# Local feature worktrees
+.worktrees/
